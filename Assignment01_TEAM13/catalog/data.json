@@ -1,0 +1,65 @@
+[
+    {
+      "id": "1",
+      "name": "Air Jordan1 Retro High OG",
+      "url": "./images/shoes/AirJordan1RetroHighOG.jpg",
+      "description": "The Air Jordan 1 Retro High OG features a classic high-top silhouette, providing ankle support and a stylish, streetwear-ready look.",
+      "page": "Index"
+    },
+    {
+      "id": "2",
+      "name": "Air Jordan 4 Retro ",
+      "url": "./images/shoes/AirJordan4Retro.jpg",
+      "description": "The Air Jordan 4 Retro features a mid-top silhouette with a sleek and distinctive design, making it a standout option for both basketball performance and casual wear.",
+      "page": "Index"
+    },
+    {
+      "id": "3",
+      "name": "Air Jordan 4 Retro GS",
+      "url": "./images/shoes/AirJordan4RetroGS.jpg",
+      "description": "The Air Jordan 4 Retro GS is a version of the Air Jordan 4 specifically designed for Grade School (GS) or youth sizes. It maintains many of the key design elements and features of the standard Air Jordan 4, but it is sized and tailored for kids and young teenagers. ",
+      "page": "Index"
+    },
+    {
+      "id": "4",
+      "name": "Nike Dunk Low PRM, or Nike Dunk Low Premium",
+      "url": "./images/shoes/NikeDunkLowPRM.jpg",
+      "description": "The Nike Dunk Low PRM, or Nike Dunk Low Premium, is a popular sneaker model within the Nike Dunk series. It is known for its classic and versatile design, and it often features premium materials and colorways.",
+      "page": "Index"
+    },
+    {
+      "id": "5",
+      "name": "Nike's Dunk Low SE2",
+      "url": "./images/shoes/NikedunkLowSE2.jpg",
+      "description": "Nike's Dunk Low SE2 is decorated with exotic patterns and textures. This sneaker is crafted from a white leather base while the upper features vibrant overlays constructed of leopard-pattern Durabuck, safari print, faux-horsehair, suede, and smooth leather.",
+      "page": "Index"
+    },
+    {
+      "id": "6",
+      "name": "Nike Dunk Retro SE2",
+      "image": "./images/shoes/NikeDunkRetroSE2.jpg",
+      "description": "Fresh colors keep the old-school vibes shooting and scoring in a heritage basketball shoe that's still winning games as a modern off-court sneaker. .",
+      "page": "Index"
+    },
+    {
+        "id": "7",
+        "name": "Travis Scott Air Jordan 4 Retro Purple Suede",
+        "image": "./images/highlight/light1.jpg",
+        "description": "The sneaker is dressed in purple suede with black grid mesh, matte lace wings and semi-transparent eyestays.",
+        "page": "Highlight"
+    },
+    {
+        "id": "8",
+        "name": "Nike Sb Dunk Low Freddy",
+        "image": "./images/highlight/light2.jpg",
+        "description": "The Nike SB Dunk Low Freddy draws inspiration from Freddy Krueger's distinct and nightmarish appearance, particularly his striped sweater and gruesome character.",
+        "page": "Highlight"
+    },
+    {
+        "id": "9",
+        "name": "Nike Back To The Future 89",
+        "image": "./images/highlight/light3.jpg",
+        "description": "One of the most distinctive and iconic features of the Nike Mag is its self-lacing technology. The shoes are equipped with an automatic lacing system that tightens the laces"
+    }
+
+  ]
