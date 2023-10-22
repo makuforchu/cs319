@@ -1,4 +1,4 @@
-fetch('./data.json')
+fetch('./highlight.json')
     .then(function (response) {
         return response.json();
     })
@@ -20,7 +20,7 @@ function appendData(data) {
             <div class="col">
               <div class="card shadow-sm">
                 <img
-                  src="${result.url}"
+                  src="${result.image}"
                   alt="${result.name}"
                 />
                 <div class="card-body">
@@ -34,7 +34,7 @@ function appendData(data) {
                       <button
                         type="button"
                         class="btn btn-sm btn-outline-secondary"
-                        onclick="window.open('${result.url}', 'targetWindow', 'toolbar=no, location=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1090px, height=550px, top=25px left=120px'); return false;"
+                        onclick="window.open('${result.image}', 'targetWindow', 'toolbar=no, location=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1090px, height=550px, top=25px left=120px'); return false;"
                       >
                         View
                       </button>

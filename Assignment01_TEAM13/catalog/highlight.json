@@ -1,0 +1,22 @@
+[
+    {
+    "id": "7",
+    "name": "Travis Scott Air Jordan 4 Retro Purple Suede",
+    "image": "../images/highlight/light1.jpg",
+    "description": "The sneaker is dressed in purple suede with black grid mesh, matte lace wings and semi-transparent eyestays.",
+    "page": "Highlight"
+},
+{
+    "id": "8",
+    "name": "Nike Sb Dunk Low Freddy",
+    "image": "../images/highlight/light2.jpg",
+    "description": "The Nike SB Dunk Low Freddy draws inspiration from Freddy Krueger's distinct and nightmarish appearance, particularly his striped sweater and gruesome character.",
+    "page": "Highlight"
+},
+{
+    "id": "9",
+    "name": "Nike Back To The Future 89",
+    "image": "../images/highlight/light3.jpg",
+    "description": "One of the most distinctive and iconic features of the Nike Mag is its self-lacing technology. The shoes are equipped with an automatic lacing system that tightens the laces"
+}
+]
